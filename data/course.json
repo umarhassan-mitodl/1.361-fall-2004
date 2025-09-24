@@ -1,0 +1,49 @@
+{
+  "term": "Fall",
+  "year": "2004",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Engineering",
+      "Civil Engineering",
+      "Geotechnical Engineering"
+    ],
+    [
+      "Science",
+      "Earth Science",
+      "Geology"
+    ]
+  ],
+  "legacy_uid": "e58bf23f-a6d0-506b-72dc-6eb290631a5e",
+  "instructors": {
+    "content": [
+      "68a25b59-b04c-7afd-58e6-4aa1e2c62242",
+      "aa3599ee-3df2-43b3-3590-5d33a8e9a143"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "fa3337fd-eff0-6378-e0b7-bde1b7d8af30",
+    "website": "1-361-advanced-soil-mechanics-fall-2004"
+  },
+  "course_title": "Advanced Soil Mechanics",
+  "course_description": "This class presents the application of principles of soil mechanics. It considers the following topics: the origin and nature of soils; soil classification; the effective stress principle; hydraulic conductivity and seepage; stress-strain-strength behavior of cohesionless and cohesive soils and application to lateral earth stresses; bearing capacity and slope stability; consolidation theory and settlement analysis; and laboratory and field methods for evaluation of soil properties in design practice.\n",
+  "department_numbers": [
+    "1"
+  ],
+  "extra_course_numbers": "1.032,1.366",
+  "primary_course_number": "1.361",
+  "course_image_thumbnail": {
+    "content": "eda4c17d-028e-41d7-a33c-e9cee543f62f",
+    "website": "1-361-advanced-soil-mechanics-fall-2004"
+  },
+  "learning_resource_types": [
+    "Lecture Notes"
+  ],
+  "site_uid": "721f62fe-cbbc-4368-9155-d9662a353e0a",
+  "site_short_id": "1.361-fall-2004",
+  "site_url_path": "courses/1-361-advanced-soil-mechanics-fall-2004",
+  "title": "Course Metadata"
+}
