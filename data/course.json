@@ -29,7 +29,6 @@
     "website": "1-361-advanced-soil-mechanics-fall-2004"
   },
   "course_title": "Advanced Soil Mechanics",
-  "hide_download": true,
   "course_description": "This class presents the application of principles of soil mechanics. It considers the following topics: the origin and nature of soils; soil classification; the effective stress principle; hydraulic conductivity and seepage; stress-strain-strength behavior of cohesionless and cohesive soils and application to lateral earth stresses; bearing capacity and slope stability; consolidation theory and settlement analysis; and laboratory and field methods for evaluation of soil properties in design practice.\n",
   "department_numbers": [
     "1"
@@ -40,7 +39,6 @@
     "content": "eda4c17d-028e-41d7-a33c-e9cee543f62f",
     "website": "1-361-advanced-soil-mechanics-fall-2004"
   },
-  "hide_download_original": true,
   "learning_resource_types": [
     "Lecture Notes"
   ],
